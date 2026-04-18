@@ -1,4 +1,5 @@
-# ![SnakeWolf Logo](White-and-Black.png)
+<img alt="SnakeWolf Logo" src="White-and-Black.png" width="100px">
+
 ## 🐍 Welcome to SnakeWolf 🐺
 
 [日本語](#) | [English](en.md)
